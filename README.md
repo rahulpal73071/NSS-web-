@@ -35,4 +35,4 @@ This repository contains two simple frontend projects created using **HTML**, **
 
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/rahulpal73071/NSS-web-.git]
+   git clone https://github.com/rahulpal73071/NSS-web-.git
